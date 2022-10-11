@@ -12,4 +12,4 @@ Hey!
 
 <h1 align="center">关于我们</h1>
 
-### 此 `README.md` 正在施工中~请耐心等待~
+### 此 `README.md` 正在施工中！请耐心等待~
